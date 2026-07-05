@@ -10,8 +10,11 @@ Thanks for using my script! This is an automatic script for the **Crystal Rose M
 
 [进入小游戏 / Open Minigame](https://crystalrosegame.wildrift.leagueoflegends.com/)
 
+如果你喜欢我的脚本，请 Star 我的 [GitHub](https://github.com/gavinn212/Wild-Rift-XP-Auto-Farm-Auto-Buy-Seeds.git)。
+Please star my script on [GitHub](https://github.com/gavinn212/Wild-Rift-XP-Auto-Farm-Auto-Buy-Seeds.git) if you like it.
+
 <details>
-<summary>中文 / Chinese</summary>
+<summary>中文介绍 / Chinese Readme</summary>
 
 ## ✨ 功能概览
 
@@ -62,7 +65,7 @@ A: 查看日志是否正在等待任务完成或提交。
 </details>
 
 <details>
-<summary>English / 英文</summary>
+<summary>英文介绍 / English Readme</summary>
 
 ## ✨ Features
 
