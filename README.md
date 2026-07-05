@@ -1,7 +1,4 @@
-> This README was originally created from my first release page on Greasy Fork:
-> https://greasyfork.org/en/scripts/574676/versions/new
->
-> I initially published this script there.
+> This script was created and maintained on Greasy Fork: https://greasyfork.org/en/scripts/574676/versions/new
 
 # Crystal Rose Minigame Auto Script
 
